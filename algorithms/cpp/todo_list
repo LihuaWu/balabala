@@ -6,3 +6,4 @@
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./algorithms/python/ValidMountainArray/validMountainArray.py)|Easy| //TODO
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python](./algorithms/python/XOfAKindInADeckOfCards/hasGroupsSizeX.py)|Easy|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [C++](./algorithms/cpp/mirrorReflection/MirrorReflection.cpp)|Medium| //TODO 看不懂题意
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [C++](./algorithms/cpp/randomPickIndex/RandomPickIndex.cpp)|Medium| //TODO   不太懂

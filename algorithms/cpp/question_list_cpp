@@ -1,23 +1,6 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./algorithms/cpp/friendCircles/FriendCircles.cpp)|Medium|
-|518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./algorithms/cpp/coinChange/CoinChange2.cpp)|Medium|
-|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
-|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [C++](./algorithms/cpp/partitionEqualSubsetSum/PartitionEqualSubsetSum.cpp)|Medium|
-|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./algorithms/cpp/arithmeticSlices/ArithmeticSlices.cpp)|Medium|
-|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/SplitArrayLargestSum.cpp)|Hard|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./algorithms/cpp/queueReconstructionByHeight/QueueReconstructionByHeight.cpp)|Medium|
-|403|[Frog Jump](https://leetcode.com/problems/frog-jump/) | [C++](./algorithms/cpp/frogJump/FrogJump.cpp)|Hard|
-|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [C++](./algorithms/cpp/removeKDigits/RemoveKDigits.cpp)|Medium|
-|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [C++](./algorithms/cpp/evaluateDivision/EvaluateDivision.cpp)|Medium|
-|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [C++](./algorithms/cpp/randomPickIndex/RandomPickIndex.cpp)|Medium|
-|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [C++](./algorithms/cpp/integerReplacement/IntegerReplacement.cpp)|Medium|
-|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [C++](./algorithms/cpp/longestSubstringWithAtLeastKRepeatingCharacters/LongestSubstringWithAtLeastKRepeatingCharacters.cpp)|Medium|
-|394|[Decode String](https://leetcode.com/problems/decode-string/) | [C++](./algorithms/cpp/decodeString/DecodeString.cpp)|Medium|
-|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [C++](./algorithms/cpp/UTF8Validation/UTF8Validation.cpp)|Medium|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./algorithms/cpp/isSubsequence/IsSubsequence.cpp)|Medium|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [C++](./algorithms/cpp/perfectRectangle/PerfectRectangle.cpp)|Hard|
-|390|[Elimination Game](https://leetcode.com/problems/elimination-game/) | [C++](./algorithms/cpp/eliminationGame/EliminationGame.cpp)|Medium|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [C++](./algorithms/cpp/longestAbsoluteFilePath/LongestAbsoluteFilePath.cpp)|Medium|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [C++](./algorithms/cpp/lexicographicalNumbers/LexicographicalNumbers.cpp)|Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/) | [C++](./algorithms/cpp/miniParser/MiniParser.cpp)|Medium|
